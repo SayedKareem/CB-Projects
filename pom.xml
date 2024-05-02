@@ -13,14 +13,14 @@
         <junit.jupiter.version>5.2.0</junit.jupiter.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
-  
+<!--- 
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.organization>cbdevops</sonar.organization>
         <sonar.projectKey>cbdevops_cbdevops</sonar.projectKey>
         <sonar.login>892f0f4e4e9cc78d998f520466b1e2b0d8736edd</sonar.login>
-   
+   -->
     </properties>
-   
+<!--- 
 <distributionManagement>
 
     <repository>
@@ -36,7 +36,7 @@
     </snapshotRepository>
 
 </distributionManagement>
- 
+ -->
     
     <dependencies>
         <dependency>
